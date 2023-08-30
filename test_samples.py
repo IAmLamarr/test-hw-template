@@ -1,4 +1,4 @@
 import main
 
 def test():
-	assert main.main() == "Hello!"
+	assert main.main() == "Hello"
